@@ -45,6 +45,7 @@
 - Basic attention to UX/UI
 - Separation of concerns
 - Clean structure
+- Profit from new ES6+ features
 
 
 
