@@ -34,6 +34,7 @@
 - Create a details page, accessible by clicking on a pokemon
 - Create a navigation bar to 2 sample pages with some sample text (optionally use the opportunity to display more information)
 - Create a footer for all pages
+- Feel free to improve the sample in any way
 
 ## Our guidelines
 
