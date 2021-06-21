@@ -38,10 +38,10 @@ const Pokemon = (props) => {
       <React.Fragment>
         <Typography variant="h1" marked="center" align="center">
           {`#${id} ${toFirstCharUppercase(name)}`}
-          <img src={front_default} />
+          <img alt={toFirstCharUppercase(species.name)} src={front_default} />
         </Typography>
         <Typography variant="body2" align="center">
-          <img style={{ width: "300px", height: "300px" }} src={fullImageUrl} />
+          <img alt={toFirstCharUppercase(species.name)} style={{ width: "300px", height: "300px" }} src={fullImageUrl} />
           <Typography variant="h3">Pokemon Information</Typography>
           <Typography>
             {"Species: "}
