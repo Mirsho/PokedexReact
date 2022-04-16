@@ -1,6 +1,8 @@
 # Medano Solution Test App
 Applicant: Adrián Perera Hernández - [Mirsho on GitHub](https://github.com/Mirsho)
 
+Proyect deployed at [Medano Pokedex Adrian - Netlify](https://medanopokedexadrian.netlify.app)
+
 ## Installed packages
 
 - React
